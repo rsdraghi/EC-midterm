@@ -1,0 +1,10 @@
+EC 
+
+1. 6 hops
+
+2. A train rode through the screen
+
+3. There was not since there was no response.
+
+4. whoami --version
+   whoami (GNU coreutils) 9.4
